@@ -1,6 +1,6 @@
-#Basic TCP Chat Server:
+#Basic TCP Chat Server:#
 
-##A simple TCP chat server built using Node.js
+##A simple TCP chat server built using Node.js##
 
 Basic instructions:
 
@@ -18,7 +18,7 @@ Lastly connect new clients using:
 
 `telnet localhost 3000`
 
-##Test:
+##Test:##
 
 run:
 
